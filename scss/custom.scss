@@ -1,0 +1,51 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background: #fdfdfc;
+
+    h4 {
+        font-family: 'Dancing Script';
+    }
+}
+
+#mainNavbar {
+
+    .nav-link {
+        color: #031926;
+        font-weight: 700;
+    }
+
+    .nav-link:hover {
+        color: #db5461;
+    }
+}
+
+#showcase {
+    font-family: 'Dancing Script';
+    background: url("../imgs/header-img.png") bottom / cover no-repeat;
+    min-height: 400px;
+}
+
+#work {
+    background: #db5461;
+}
+
+#about{
+    background: #fdfdfc;
+}
+
+#contact {
+    background: #77aca2;
+}
+
+#footer {
+    background: #031926;
+
+    .nav-link {
+        color: #fdfdfc;
+        font-weight: 700;
+    }
+
+    .nav-link:hover {
+        color: #db5461;
+    }
+}
